@@ -1,3 +1,4 @@
+NOTE: Banyak error emang, nanti dibaikin, cek aja ipynbnya
 Laporan Proyek Machine Learning 
 
 Nama				: Abraham Pardomuan Naiborhu
